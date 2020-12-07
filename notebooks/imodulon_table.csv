@@ -1,0 +1,46 @@
+,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,uncharacterized,category
+Nitrogen,PSPTO_RS01865,1.00E-09,1.04E-07,0.5,0.151515152,0.23255814,5,10,33,1,,,Elemental Uptake
+1,,,,,,,,,,,,1,Uncharacterized
+Motility,,,,,,,,,,,,,Basic Cellular
+Sulfur-1,,,,,,,,,,,,,Elemental Uptake
+Recombination,,,,,,,,,,,,,Interactions
+5,,,,,,,,,,,,1,Uncharacterized
+IS-elements,,,,,,,,,,,,,Genomic
+Molybdenum,PSPTO_RS19115,2.56E-08,2.72E-06,0.75,0.25,0.375,3,4,12,1,,,Metal Uptake
+Alginate,,,,,,,,,,,,,Interactions
+Resistance,,,,,,,,,,,,,Interactions
+Sulfur-2,,,,,,,,,,,,,Elemental Uptake
+11,,,,,,,,,,,,1,Uncharacterized
+Plasmid A,,,,,,,,,,,,,Genomic
+Carb Transport,,,,,,,,,,,,,Metabolism
+Chaperone,,,,,,,,,,,,,Basic Cellular
+Coronatine,,,,,,,,,,,,,Interactions
+16,,,,,,,,,,,,1,Uncharacterized
+17,,,,,,,,,,,,1,Uncharacterized
+Nt/Ribosome,,,,,,,,,,,,,Basic Cellular
+single_gene_1,,,,,,,,,,,1,,Single Gene
+single_gene_2,,,,,,,,,,,1,,Single Gene
+Fe/Protein Transport,,,,,,,,,,,,,Metal Uptake
+Inositol,,,,,,,,,,,,,Metabolism
+Phage,,,,,,,,,,,,,Genomic
+Protocatechuate,,,,,,,,,,,,,Interactions
+Flagella-1,,,,,,,,,,,,,Basic Cellular
+Fur,PSPTO_RS27215,1.72E-16,0,0.727272727,0.216216216,0.333333333,8,11,37,1,,,Metal Uptake
+Bactin,,,,,,,,,,,,,Interactions
+28,,,,,,,,,,,,1,Uncharacterized
+Fatty Acid,PSPTO_RS18145,9.94E-18,0,0.727272727,0.296296296,0.421052632,8,11,27,1,,,Metabolism
+Phosphate,,,,,,,,,,,,,Elemental Uptake
+Secretion,,,,,,,,,,,,,Interactions
+Folate,,,,,,,,,,,,,Metabolism
+Pyoverdine,,,,,,,,,,,,,Interactions
+34,,,,,,,,,,,,1,Uncharacterized
+Flagella-2,,,,,,,,,,,,,Basic Cellular
+Translation,,,,,,,,,,,,,Basic Cellular
+T3SS,,,,,,,,,,,,,Interactions
+Glycan,,,,,,,,,,,,,Interactions
+Copper,,,,,,,,,,,,,Metal Uptake
+40,,,,,,,,,,,,1,Uncharacterized
+single_gene_3,,,,,,,,,,,1,,Single Gene
+single_gene_4,,,,,,,,,,,1,,Single Gene
+single_gene_5,,,,,,,,,,,1,,Single Gene
+Fe-S,,,,,,,,,,,,,Metal Uptake
