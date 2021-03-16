@@ -1,46 +1,46 @@
-,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene
-PSPTO_RS01865,PSPTO_RS01865,9.808664263685578e-10,1.0397184119506713e-07,0.5,0.15151515151515152,0.23255813953488375,5.0,10.0,33.0,1.0,
-1,,,,,,,,,,,
-2,,,,,,,,,,,
-3,,,,,,,,,,,
-4,,,,,,,,,,,
-5,,,,,,,,,,,
-6,,,,,,,,,,,
-PSPTO_RS19115,PSPTO_RS19115,2.561399587086932e-08,2.715083562312148e-06,0.75,0.25,0.375,3.0,4.0,12.0,1.0,
-8,,,,,,,,,,,
-9,,,,,,,,,,,
-10,,,,,,,,,,,
-11,,,,,,,,,,,
-12,,,,,,,,,,,
-13,,,,,,,,,,,
-14,,,,,,,,,,,
-15,,,,,,,,,,,
-16,,,,,,,,,,,
-17,,,,,,,,,,,
-18,,,,,,,,,,,
-single_gene_1,,,,,,,,,,,True
-single_gene_2,,,,,,,,,,,True
-21,,,,,,,,,,,
-22,,,,,,,,,,,
-23,,,,,,,,,,,
-24,,,,,,,,,,,
-25,,,,,,,,,,,
-PSPTO_RS27215,PSPTO_RS27215,1.7206275660501672e-16,1.8238652200131774e-14,0.7272727272727273,0.21621621621621623,0.33333333333333337,8.0,11.0,37.0,1.0,
-27,,,,,,,,,,,
-28,,,,,,,,,,,
-PSPTO_RS18145,PSPTO_RS18145,9.939117439825751e-18,1.0535464486215296e-15,0.7272727272727273,0.2962962962962963,0.42105263157894735,8.0,11.0,27.0,1.0,
-30,,,,,,,,,,,
-31,,,,,,,,,,,
-32,,,,,,,,,,,
-33,,,,,,,,,,,
-34,,,,,,,,,,,
-35,,,,,,,,,,,
-36,,,,,,,,,,,
-37,,,,,,,,,,,
-38,,,,,,,,,,,
-39,,,,,,,,,,,
-40,,,,,,,,,,,
-single_gene_3,,,,,,,,,,,True
-single_gene_4,,,,,,,,,,,True
-single_gene_5,,,,,,,,,,,True
-44,,,,,,,,,,,
+,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,uncharacterized,category,exp_var
+Nitrogen,PSPTO_RS01865,1e-09,1.04e-07,0.5,0.15151515200000001,0.23255814,5.0,10.0,33.0,1.0,,,Elemental Uptake,0.3638259566
+UC-1,,,,,,,,,,,,1.0,Uncharacterized,0.09782665730000001
+Motility,,,,,,,,,,,,,Basic Cellular,1.2663363466
+Sulfur-1,,,,,,,,,,,,,Elemental Uptake,0.8077764508
+Recombination,,,,,,,,,,,,,Interactions,3.6040224658
+UC-2,,,,,,,,,,,,1.0,Uncharacterized,0.26013003630000003
+IS-elements,,,,,,,,,,,,,Genomic,0.2227015531
+Molybdenum,PSPTO_RS19115,2.56e-08,2.7200000000000002e-06,0.75,0.25,0.375,3.0,4.0,12.0,1.0,,,Metal Uptake,1.6388544611
+Alginate,,,,,,,,,,,,,Interactions,0.4681388395
+Resistance,,,,,,,,,,,,,Interactions,1.4477274062
+Sulfur-2,,,,,,,,,,,,,Elemental Uptake,1.5036512778
+UC-3,,,,,,,,,,,,1.0,Uncharacterized,0.6282692082
+Plasmid A,,,,,,,,,,,,,Genomic,0.6111008681
+Carb Transport,,,,,,,,,,,,,Metabolism,6.3585376289
+Chaperone,,,,,,,,,,,,,Basic Cellular,0.4967178715
+Coronatine,,,,,,,,,,,,,Interactions,1.2604817858000001
+UC-4,,,,,,,,,,,,1.0,Uncharacterized,1.450440005
+UC-5,,,,,,,,,,,,1.0,Uncharacterized,0.15392661230000002
+Nt/Ribosome,,,,,,,,,,,,,Basic Cellular,1.0519291492
+single_gene_1,,,,,,,,,,,1.0,,Single Gene,0.11598190010000001
+single_gene_2,,,,,,,,,,,1.0,,Single Gene,0.0775806264
+Fe/Protein Transport,,,,,,,,,,,,,Metal Uptake,0.5100576127
+Inositol,,,,,,,,,,,,,Metabolism,1.4333783156
+Phage,,,,,,,,,,,,,Genomic,0.2575688894
+Protocatechuate,,,,,,,,,,,,,Interactions,0.1406554253
+Flagella-1,,,,,,,,,,,,,Basic Cellular,0.49321176840000003
+Fur,PSPTO_RS27215,1.7199999999999998e-16,0.0,0.727272727,0.21621621600000002,0.333333333,8.0,11.0,37.0,1.0,,,Metal Uptake,0.2879291986
+Bactin,,,,,,,,,,,,,Interactions,11.2399133577
+UC-6,,,,,,,,,,,,1.0,Uncharacterized,2.0531875735
+Fatty Acid,PSPTO_RS18145,9.94e-18,0.0,0.727272727,0.296296296,0.42105263200000004,8.0,11.0,27.0,1.0,,,Metabolism,1.4478672984
+Phosphate,,,,,,,,,,,,,Elemental Uptake,0.1960936916
+Secretion,,,,,,,,,,,,,Interactions,0.8920310346
+Folate,,,,,,,,,,,,,Metabolism,0.6000975164
+Pyoverdine,,,,,,,,,,,,,Interactions,6.0432929703
+UC-7,,,,,,,,,,,,1.0,Uncharacterized,0.7355970851
+Flagella-2,,,,,,,,,,,,,Basic Cellular,2.012189839
+Translation,,,,,,,,,,,,,Basic Cellular,1.3217536218000001
+T3SS,,,,,,,,,,,,,Interactions,1.7293184916
+Glycan,,,,,,,,,,,,,Interactions,2.8083511576999998
+Copper,,,,,,,,,,,,,Metal Uptake,3.3904131536
+UC-8,,,,,,,,,,,,1.0,Uncharacterized,0.47527245
+single_gene_3,,,,,,,,,,,1.0,,Single Gene,0.1407254684
+single_gene_4,,,,,,,,,,,1.0,,Single Gene,0.1151292072
+single_gene_5,,,,,,,,,,,1.0,,Single Gene,0.1664463727
+Fe-S,,,,,,,,,,,,,Metal Uptake,1.3871201411
